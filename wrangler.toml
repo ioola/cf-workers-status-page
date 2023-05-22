@@ -3,7 +3,7 @@ workers_dev = true
 account_id = ""
 type = "webpack"
 webpack_config = "node_modules/flareact/webpack"
-compatibility_date = "2023-05-21"
+compatibility_date = "2023-05-22"
 
 [triggers]
 crons = ["*/2 * * * *"]
